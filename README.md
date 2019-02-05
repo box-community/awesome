@@ -10,7 +10,7 @@ A collection of awesome Box Platform related libraries, resources and shiny thin
 
 ## Samples & Apps
 
-* [Box Audit Logs](https://github.com/kenji-toforone/box-auditlogs-node-es) - an AWS Lambda function to get Audit logs from the Box API and save them in AWS ElasticSearch - by [kenji-toforone](https://github.com/kenji-toforone)
+* [Box Audit Logs](https://github.com/kenji-toforone/box-auditlogs-node-es) - an AWS Lambda function to feed Box Audit logs from the Box API into AWS ElasticSearch - by [kenji-toforone](https://github.com/kenji-toforone)
 * [Client Side Rate Limiter in Python](https://github.com/jmfrank63/box-python-async-rate-limiter) - Python code sample for client-side rate limiting - by [@jmfrank63](https://github.com/jmfrank63)
 * [UI Elements CodePen](https://codepen.io/box-platform/) - Some excellent examples on the power of Box UI Elements - by [@box](https://github.com/box)
 

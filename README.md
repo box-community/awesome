@@ -13,6 +13,8 @@ A collection of awesome Box Platform related libraries, resources and shiny thin
 * [Box Audit Logs](https://github.com/kenji-toforone/box-auditlogs-node-es) - an AWS Lambda function to feed Box Audit logs from the Box API into AWS ElasticSearch - by [kenji-toforone](https://github.com/kenji-toforone)
 * [Client Side Rate Limiter in Python](https://github.com/jmfrank63/box-python-async-rate-limiter) - Python code sample for client-side rate limiting - by [@jmfrank63](https://github.com/jmfrank63)
 * [UI Elements CodePen](https://codepen.io/box-platform/) - Some excellent examples on the power of Box UI Elements - by [@box](https://github.com/box)
+* [Box Salesforce Blueprint](https://github.com/kylefernandadams/box-for-salesforce-blueprints) - A collection of examples designed to work with the Box for Salesforce managed package. These samples are designed to be used for demonstration, development, and test purposes.
+
 
 ## Awesome UI Extensions 
 

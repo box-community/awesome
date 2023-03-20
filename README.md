@@ -1,3 +1,7 @@
+<img src="images/box-dev-logo-clip.png" 
+alt= “box-dev-logo” 
+style="margin-left:-10px;"
+width=40%;>
 # Awesome Box
 
 A collection of awesome Box Platform related libraries, resources and shiny things. Many of these are community contributions, and are therefore not officially supported by Box.
